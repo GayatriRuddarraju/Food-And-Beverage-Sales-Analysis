@@ -1,11 +1,13 @@
 # Food & Beverage Sales Analysis Dashboard 📊
 
-<img width="899" height="513" alt="Food Beverage Sales Analysis" src="https://github.com/user-attachments/assets/516a6907-b649-4f85-a54c-0793f580f409" />
-
-
 ## 📝 Project Overview
 
 This Power BI dashboard provides an insightful analysis of sales performance in the Food & Beverage sector across multiple dimensions such as year, product groups, sales channels, salespersons, and supervisors
+
+
+## 📸 Dashboard Preview
+
+<img width="899" height="513" alt="Food Beverage Sales Analysis" src="https://github.com/user-attachments/assets/516a6907-b649-4f85-a54c-0793f580f409" />
 
 ## 📌 Key Metrics
 
