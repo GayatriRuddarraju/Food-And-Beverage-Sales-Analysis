@@ -62,11 +62,11 @@ Top performers:
 ## 🚀 How to Use
 
 1. Clone the repo:
-   git clone https://github.com/yourusername/Food-Beverage-Sales-Analysis.git
+   git clone https://github.com/GayatriRuddarraju/Food-And-Beverage-Sales-Analysis.git
+   
+ 3. Open the .pbix file in Power BI Desktop (if provided).
 
- 2. Open the .pbix file in Power BI Desktop (if provided).
-
- 3. Explore filters (e.g., by Product Category – Drink or Food) and drill-down features for detailed insights.
+ 4. Explore filters (e.g., by Product Category – Drink or Food) and drill-down features for detailed insights.
 
 ## 🧠 Learnings
 - Built advanced DAX queries for insights.
