@@ -1,8 +1,6 @@
-# Food-And-Beverage-Sales-Analysis
+# Food & Beverage Sales Analysis Dashboard 📊
 
-# 📊 Food & Beverage Sales Analysis Dashboard
-
-![Dashboard Screenshot](F&B%20ss.png)
+https://github.com/GayatriRuddarraju/Food-And-Beverage-Sales-Analysis/blob/da59752aa697a62b6461c541bc368d3b8d3b667c/Food%26Beverage%20Sales%20Analysis.png
 
 ## 📝 Project Overview
 
